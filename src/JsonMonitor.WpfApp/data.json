@@ -1,0 +1,21 @@
+{
+  "title": "Garden Tools Connection Monitor",
+  "lastModified": "2025-09-29T18:30:00Z",
+  "items": [
+    {
+      "name": "Chainsaw",
+      "value": "Connected",
+      "timestamp": "2025-09-29T18:30:00Z"
+    },
+    {
+      "name": "Blower",
+      "value": "Disconnected",
+      "timestamp": "2025-09-29T18:25:00Z"
+    },
+    {
+      "name": "Hedge Trimmer",
+      "value": "Connected",
+      "timestamp": "2025-09-29T18:28:00Z"
+    }
+  ]
+}

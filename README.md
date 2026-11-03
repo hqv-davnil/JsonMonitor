@@ -2,7 +2,7 @@
 
 A WPF application that monitors garden tools connection status by reading a JSON file.
 
-## What it does...
+## What it does
 
 Displays "real-time" connection status for:
 - Chainsaw
